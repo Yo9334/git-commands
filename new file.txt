@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 feature/second second changed
-=======
 master fisrt changed
->>>>>>> main
